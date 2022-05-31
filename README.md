@@ -1,6 +1,6 @@
 # Practica-2 - INTERRUPCIONES
 
-Aquesta pràctica veurem com podem controlar 2 leds de manera periòdica amb l'ajuda d'unt botó.
+Aquesta pràctica veurem com podem controlar l'estat de 2 leds amb l'ajuda d'un botó.
 
 # Material
 
