@@ -12,7 +12,7 @@ Aquesta pràctica veurem com podem controlar 2 leds de manera periòdica amb l'a
 
 Primer definirem la tupla Button i un void que deinirà si el nostre botó ha estat apretat.
 
-``c++
+```c++
 struct Button {
   const uint8_t PIN;
   uint32_t numberKeyPresses;
