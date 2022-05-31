@@ -54,5 +54,5 @@ if (millis() - lastMillis > 60000) {
 }
 ```
 
-Com he comentat ja a la primera pràctica, el primer dia no vam poder realitzar les pràctiques programades ja que ens faltava material. Hem realitzat el codi a casa
+Com ja he comentat a la primera pràctica, el primer dia no vam poder realitzar les pràctiques programades ja que ens faltava material. Hem realitzat el codi a casa
 però malauradament seguíem sense disposar de tot el material (leds i botó), fet pel qual no puc adjuntar cap vídeo del funcionament.
